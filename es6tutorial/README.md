@@ -1,0 +1,1 @@
+SUMMARY.md 目录结构由 [sidebar.md](https://github.com/ruanyf/es6tutorial/blob/gh-pages/sidebar.md) 修改而成
